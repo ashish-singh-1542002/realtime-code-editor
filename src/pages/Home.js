@@ -75,9 +75,7 @@ const Home = () => {
                     </span>
                 </div>
             </div>
-            <footer>
-                
-            </footer>
+            
         </div>
     );
 };
